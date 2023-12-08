@@ -1,0 +1,29 @@
+{
+  "name": "degree-converter",
+  "version": "1.0.1",
+  "description": "Convert degrees easily from your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "degree-converter": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermekuni/degree-converter.git"
+  },
+  "keywords": [
+    "degrees",
+    "celsius",
+    "fahrenheit",
+    "converter",
+    "temp"
+  ],
+  "author": "guilhermekuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermekuni/degree-converter/issues"
+  },
+  "homepage": "https://github.com/guilhermekuni/degree-converter#readme"
+}
