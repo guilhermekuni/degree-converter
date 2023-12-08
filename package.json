@@ -1,6 +1,6 @@
 {
   "name": "degree-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert degrees easily from your terminal",
   "main": "index.js",
   "scripts": {
