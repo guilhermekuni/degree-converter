@@ -7,7 +7,7 @@ NPM package: https://www.npmjs.com/package/degree-converter
 ### Installing
 
 ```
-  npm install -g degree-converter@1.0.1     
+  npm install -g degree-converter@1.0.2     
 ```
 
 ### Running
